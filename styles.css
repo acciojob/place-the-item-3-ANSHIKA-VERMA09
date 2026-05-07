@@ -1,2 +1,18 @@
-
-/* Your CSS Code here. */
+div:first-child{
+	background-color:aqua;
+	
+	
+}
+div:last-child{
+	background-color:green;
+}
+#child2{
+	background-color:pink;
+}
+.holder{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+	
+	
+}
